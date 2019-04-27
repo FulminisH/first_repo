@@ -1,3 +1,4 @@
 Welcome to My First Repo
 Learning Git is going well so far
-This is the master branch
+I added this line to the update-readme branch
+It's sunny today
