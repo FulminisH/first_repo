@@ -1,29 +1,14 @@
-# This is a large heading
+# FulminisH
 
-## This is a smaller heading
+###Geo
+I live in Cairo, Egypt.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-A local *habitation* and a **name**.
+### Interests
 
-- this is an
-- unordered
-- list
+- Molecular Biology
+- Bioinformatics
 
-1. this is
-2. an ordered
-3. list
+### Health Status
 
-This is `some code` in the middle of the sentence.
-
-```
-This is
-a block of 
-code
-```
-
-Here is how you make [a link](ocw.mit.edu)
-
-![this is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-
+1. GERD
+2. IBS
