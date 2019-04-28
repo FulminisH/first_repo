@@ -1,6 +1,6 @@
 # FulminisH
 
-###Geo
+### Geo
 I live in Cairo, Egypt.
 
 ### Interests
